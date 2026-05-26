@@ -5,11 +5,6 @@
 layout: default
 ---
 
-# Projects
+# hi
 
-Some text idk
-
-Some links or maybe use the top bar for that
-
-
-[title](test.md)
+text text text
