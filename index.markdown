@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Projects
+# **Christopher Bingham**
 
 Some text idk
 
