@@ -14,7 +14,7 @@ layout: default
 </style>
 
 
-# [Contact](test.md) <!--or make this a row or something of links/info on the homepage-->
+# [Contact](contact.md) <!--or make this a row or something of links/info on the homepage-->
 
 # [Resume](test.md)
 
@@ -23,5 +23,7 @@ layout: default
 # [Tools & Reference](test.md)
 
 # [Book List](test.md)
+
+# [Photography](test.md)
 
 # [Test](test.md)
