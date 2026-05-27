@@ -14,16 +14,16 @@ layout: default
 </style>
 
 
-# [Contact](contact.md) <!--or make this a row or something of links/info on the homepage-->
+# [Contact](/pages/contact.md) <!--or make this a row or something of links/info on the homepage-->
 
-# [Resume](test.md)
+# [Resume](/pages/resume.md)
 
-# [Projects](test.md)
+# [Projects](/pages/projects.md)
 
-# [Tools & Reference](test.md)
+# [Tools & Reference](/pages/tools.md)
 
-# [Book List](test.md)
+# [Book List](/pages/books.md)
 
-# [Photography](test.md)
+# [Photography](/pages/photos.md)
 
-# [Test](test.md)
+# [Test](/pages/test.md)
