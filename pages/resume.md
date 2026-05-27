@@ -5,5 +5,4 @@
 layout: default
 ---
 
-# hi
-
+# this page replaced by pdf resume

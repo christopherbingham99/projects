@@ -14,18 +14,19 @@ layout: default
 </style>
 -->
 
-<!--# [Contact](/pages/contact.md) <!--or make this a row or something of links/info on the homepage-->
-# [LinkedIn](https://linkedin.com/in/christopher-bingham-cb)
-
-# [Resume](/pages/resume.md)
-
 # [Projects](/pages/projects.md)
-
-# [Tools & Reference](/pages/tools.md)
 
 # [Cyber Book List](/pages/books.md)
 
+
+# [Tools & Reference](/pages/tools.md)
+
 # [Photography](/pages/photos.md)
+
+<!--# [Contact](/pages/contact.md) <!--or make this a row or something of links/info on the homepage-->
+# [LinkedIn](https://linkedin.com/in/christopher-bingham-cb)
+
+# [Resume](/pages/resume/Christopher%20Bingham%20Resume.pdf)
 
 <!--# [Test](/pages/test.md)-->
 
