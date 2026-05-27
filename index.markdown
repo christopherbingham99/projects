@@ -5,11 +5,23 @@
 layout: default
 ---
 
-# **Christopher Bingham**
+<style>
+  a {
+    color: #b5e853;
+    text-decoration: none;
+    text-shadow: none;
+  }
+</style>
 
-Some text idk
 
-Some links or maybe use the top bar for that
+# [Contact](test.md) <!--or make this a row or something of links/info on the homepage-->
 
+# [Resume](test.md)
 
-[title](test.md)
+# [Projects](test.md)
+
+# [Tools & Reference](test.md)
+
+# [Book List](test.md)
+
+# [Test](test.md)
