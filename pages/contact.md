@@ -5,5 +5,9 @@
 layout: default
 ---
 
-# hi
+# Contact
+
+### Email
+
+### LinkedIn
 

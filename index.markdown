@@ -14,7 +14,8 @@ layout: default
 </style>
 
 
-# [Contact](/pages/contact.md) <!--or make this a row or something of links/info on the homepage-->
+<!--# [Contact](/pages/contact.md) <!--or make this a row or something of links/info on the homepage-->
+# [LinkedIn](https://linkedin.com/in/christopher-bingham-cb)
 
 # [Resume](/pages/resume.md)
 
@@ -22,8 +23,11 @@ layout: default
 
 # [Tools & Reference](/pages/tools.md)
 
-# [Book List](/pages/books.md)
+# [Cyber Book List](/pages/books.md)
 
 # [Photography](/pages/photos.md)
 
-# [Test](/pages/test.md)
+<!--# [Test](/pages/test.md)-->
+
+
+
