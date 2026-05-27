@@ -4,7 +4,7 @@
 
 layout: default
 ---
-
+<!--just add this to the def layout
 <style>
   a {
     color: #b5e853;
@@ -12,7 +12,7 @@ layout: default
     text-shadow: none;
   }
 </style>
-
+-->
 
 <!--# [Contact](/pages/contact.md) <!--or make this a row or something of links/info on the homepage-->
 # [LinkedIn](https://linkedin.com/in/christopher-bingham-cb)
