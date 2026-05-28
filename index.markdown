@@ -26,7 +26,7 @@ layout: default
 <!--# [Contact](/pages/contact.md) <!--or make this a row or something of links/info on the homepage-->
 # [LinkedIn](https://linkedin.com/in/christopher-bingham-cb)
 
-# [Resume](/projects/pages/resume/Christopher%20Bingham%20Resume.pdf)
+<!--# [Resume](/projects/pages/resume/Christopher%20Bingham%20Resume.pdf)-->
 
 <!--# [Test](/pages/test.md)-->
 
