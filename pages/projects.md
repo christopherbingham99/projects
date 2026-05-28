@@ -9,6 +9,9 @@ layout: default
 
 <br><br>
 
+### [Honeypot Lesson Plan/Lab](/projects/pages/projects/honeypot_lesson_plan_christopher_bingham.pdf)
+A walkthough of how to set up a basic honeypot in a virtual environment.
+<br><br>
 
 ### [Evaluating Open-Weight LLMs for Code Vulnerability Detection](/projects/pages/projects/capstone_poster.pdf)
 Large legacy codebases often contain vulnerabilities that are difficult and time consuming to find. As a BYU Senior Capstone team, we explored how artificial intelligence models running locally on high performance hardware can improve the efficiency and scalability of vulnerability detection while aiding human analysts. We worked with the client to deliver a transferable result within the defined scope.

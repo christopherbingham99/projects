@@ -21,6 +21,10 @@ McLaren F1
 1971 Porsche 911
 <br><br>
 
+![Lamborghini Huracan LB Works](/projects/pages/photos/Huracan_LB.png)
+Lamborghini Huracan LB Works
+<br><br>
+
 ![DeLorean from Back to the Future](/projects/pages/photos/DeLorean_BttF.jpg)
 DeLorean from Back to the Future
 <br><br>
@@ -31,10 +35,6 @@ Lamborghini Diablo
 
 ![Cybertruck](/projects/pages/photos/cybertruck.jpg)
 Cybertruck
-<br><br>
-
-![Lamborghini Huracan LB Works](/projects/pages/photos/Huracan_LB.png)
-Lamborghini Huracan LB Works
 <br><br>
 
 ![Dodge Viper SRT10 ACR](/projects/pages/photos/Viper_SRT10_ACR.jpg)
