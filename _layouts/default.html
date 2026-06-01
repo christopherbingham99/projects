@@ -37,10 +37,27 @@
   </body>
 </html>
 
+<!--
 <style>
   a {
     color: #b5e853;
     text-decoration: none;
     text-shadow: none;
+  }
+</style>
+-->
+
+<style>
+  a {
+    color: #b5e853;
+    text-decoration: none;
+    text-shadow: none;
+    
+    display: inline-block; /* Required for transform to work properly on links */
+    transition: transform 0.2s ease-in-out; 
+  }
+
+  a:hover {
+    transform: scale(1.1);
   }
 </style>
