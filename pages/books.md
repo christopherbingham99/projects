@@ -7,8 +7,10 @@ layout: default
 
 # Cyber Book List
 
+<!--
 some of my favorite cyberse/tech related book.... or some useful cyber books... small blurb (or take from goodreads and cite at bottom)
 Add goodreads links?
+-->
 
 <br><br>
 
