@@ -14,7 +14,7 @@ A walkthough of how to set up a basic honeypot in a virtual environment.
 <br><br>
 
 ### [Evaluating Open-Weight LLMs for Code Vulnerability Detection](/pages/projects/capstone_poster.pdf)
-Large legacy codebases often contain vulnerabilities that are difficult and time consuming to find. As a BYU Senior Capstone team, we explored how artificial intelligence models running locally on high performance hardware can improve the efficiency and scalability of vulnerability detection while aiding human analysts. We worked with the client to deliver a transferable result within the defined scope.
+An evaluation of how artificial intelligence models running locally on high performance hardware can improve the efficiency and scalability of vulnerability detection while aiding human analysts.
 <br><br>
 
 ### [AI Driven QoS](/pages/projects/AI_Driven_QoS_Christopher_Bingham.pdf)
