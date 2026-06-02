@@ -5,5 +5,59 @@
 layout: default
 ---
 
-# Under Construction
+# Tools & Reference
+<br><br>
+
+## Networking & Web
+### [Wireshark](https://www.wireshark.org/)
+Network traffic and protocol analyzer.
+<br><br>
+
+## OSINT
+
+### [OSINT Framework](https://osintframework.com/)
+A collection of OSINT tools and resources.
+<br><br>
+
+
+## Frameworks
+
+### [OSINT Framework](https://osintframework.com/)
+A collection of OSINT tools and resources.
+<br><br>
+
+
+
+<!--
+### [green](link)
+description
+<br><br>
+-->
+
+
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
 
