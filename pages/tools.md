@@ -8,6 +8,10 @@ layout: default
 # Tools & Reference
 <br><br>
 
+
+<!--MAYBE A DIFFERENT FORMAT FOR THE CATEGORIES AND WHAT NOT>
+<!--Maybe have green categories but just normal white text for lists instead of links. Maybe also have links? Or links with white text or whateever>
+
 ## Networking & Web
 ### [Wireshark](https://www.wireshark.org/)
 Network traffic and protocol analyzer.
@@ -22,8 +26,8 @@ A collection of OSINT tools and resources.
 
 ## Frameworks
 
-### [OSINT Framework](https://osintframework.com/)
-A collection of OSINT tools and resources.
+### [xxxxx](iuf)
+jhgfkjh
 <br><br>
 
 
