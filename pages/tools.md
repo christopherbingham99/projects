@@ -10,7 +10,7 @@ layout: default
 
 
 <!--MAYBE A DIFFERENT FORMAT FOR THE CATEGORIES AND WHAT NOT>
-<!--Maybe have green categories but just normal white text for lists instead of links. Maybe also have links? Or links with white text or whateever>
+<!--Maybe have green categories but just normal white text for lists instead of links. Maybe also have links? Or links with white text or whateever-->
 
 ## Networking & Web
 ### [Wireshark](https://www.wireshark.org/)
@@ -23,7 +23,7 @@ Network traffic and protocol analyzer.
 A collection of OSINT tools and resources.
 <br><br>
 
-
+<!--
 ## Frameworks
 
 ### [xxxxx](iuf)
@@ -32,36 +32,37 @@ jhgfkjh
 
 
 
-<!--
+
 ### [green](link)
 description
 <br><br>
+
+
+
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+### [green](link)
+description
+<br><br>
+
+
 -->
-
-
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-
