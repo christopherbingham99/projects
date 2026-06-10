@@ -5,64 +5,107 @@
 layout: default
 ---
 
+
+
+
+
 # Tools & Reference
 <br><br>
 
 
-<!--MAYBE A DIFFERENT FORMAT FOR THE CATEGORIES AND WHAT NOT>
-<!--Maybe have green categories but just normal white text for lists instead of links. Maybe also have links? Or links with white text or whateever-->
+
+
+## Vulnerability Databases
+
+* [Common Vulnerabilities and Exposures](https://www.cve.org/)
+<br>
+
+* [NIST National Vulnerability Datbase](https://nvd.nist.gov/)
+<br>
+
+* [OWASP Top Ten Web Application Security Risks](https://owasp.org/www-project-top-ten/)
+<br>
+
+* [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+<br>
+
+<br>
+
+
+## Educational, Lab, CTF
+
+* [TryHackMe](https://tryhackme.com/)
+<br>
+
+* [Hack The Box](https://www.hackthebox.com/)
+<br>
+
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+<br>
+
+* [Professor Messer](https://www.professormesser.com/)
+<br>
+
+* [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+<br>
+
+<br>
+
+
+
+
+
+## Pen Testing
+
+* [linPEAS & winPEAS](https://github.com/peass-ng/PEASS-ng)
+<br>
+
+* [Exploit Database](https://www.exploit-db.com/)
+<br>
+
+* [GTFOBins](https://gtfobins.org/)
+<br>
+
+<br>
 
 ## Networking & Web
-### [Wireshark](https://www.wireshark.org/)
-Network traffic and protocol analyzer.
-<br><br>
+* [Wireshark](https://www.wireshark.org/)
+<br>
+
+* [Burp Suite](https://portswigger.net/burp)
+<br>
+
+<br>
 
 ## OSINT
 
-### [OSINT Framework](https://osintframework.com/)
-A collection of OSINT tools and resources.
-<br><br>
+* [OSINT Framework](https://osintframework.com/)
+<br>
 
-<!--
+<br>
+
+
 ## Frameworks
 
-### [xxxxx](iuf)
-jhgfkjh
-<br><br>
+* [MITRE ATT&CK](https://attack.mitre.org/)
+<br>
+
+* [MITRE CAPEC](https://capec.mitre.org/)
+<br>
 
 
 
 
-### [green](link)
-description
-<br><br>
+<br>
 
 
 
 
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-### [green](link)
-description
-<br><br>
-
-
+<!--
+complience grc
 -->
+
+
+
+
+
