@@ -66,6 +66,12 @@ layout: default
 * [GTFOBins](https://gtfobins.org/)
 <br>
 
+* [Kali Linux](https://www.kali.org/)
+<br>
+
+* [Metasploit](https://www.metasploit.com/)
+<br>
+
 <br>
 
 ## Networking & Web
@@ -75,14 +81,14 @@ layout: default
 * [Burp Suite](https://portswigger.net/burp)
 <br>
 
+* [Gobuster](https://www.kali.org/tools/gobuster/)
 <br>
 
-## OSINT
-
-* [OSINT Framework](https://osintframework.com/)
+* [NMAP](https://nmap.org/)
 <br>
 
 <br>
+
 
 
 ## Frameworks
@@ -93,11 +99,32 @@ layout: default
 * [MITRE CAPEC](https://capec.mitre.org/)
 <br>
 
+* [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+<br>
 
 
 
 <br>
 
+
+## Defensive & Monitoring
+
+* [Wazuh](https://wazuh.com/)
+<br>
+
+* [Nessus](https://www.tenable.com/products/nessus)
+<br>
+
+
+<br>
+
+
+## OSINT
+
+* [OSINT Framework](https://osintframework.com/)
+<br>
+
+<br>
 
 
 
