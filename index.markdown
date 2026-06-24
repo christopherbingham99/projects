@@ -16,10 +16,9 @@ layout: default
 
 # [Projects](/pages/projects.md)
 
-# [Cyber Book List](/pages/books.md)
-
-
 # [Tools & Reference](/pages/tools.md)
+
+# [Cyber Book List](/pages/books.md)
 
 # [Photography](/pages/photos.md)
 

@@ -25,3 +25,7 @@ Learn to create a DNS sinkhole manually or with PiHole.
 A brief paper exploring uses for AI in improving quality of service in next generation nextworks including the Internet of Vehicles (IoV).
 <br><br>
 
+### [Windows 10 End of Support Vulnerabilities](/pages/projects/Win10Poster.png)
+What vulnerabilities does Windows 10 Home have after end of support? (Up to date as of late 2025)
+<br><br>
+
