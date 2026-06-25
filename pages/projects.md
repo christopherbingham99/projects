@@ -26,6 +26,6 @@ A brief paper exploring uses for AI in improving quality of service in next gene
 <br><br>
 
 ### [Windows 10 End of Support Vulnerabilities](/pages/projects/Win10Poster.png)
-What vulnerabilities does Windows 10 Home have after end of support? (Up to date as of late 2025)
+What vulnerabilities does Windows 10 Home have after end of support?
 <br><br>
 
